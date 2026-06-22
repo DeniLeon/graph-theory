@@ -1,4 +1,4 @@
-# Graph Theory Random Models
+# Graph Theory 
 
 Proyecto  Teoría de Grafos.
 
